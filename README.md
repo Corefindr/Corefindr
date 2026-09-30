@@ -48,15 +48,26 @@ I am Nishant, a ServiceNow-focused builder interested in ITSM, platform automati
 
 ## Featured Projects
 
-| Project | What it demonstrates |
-| --- | --- |
-| **Incident Follow-up Assistant** | A ServiceNow scoped app concept for incidents moved to **On Hold + Awaiting Caller**. It auto-creates follow-up records, classifies them as **Upcoming**, **Due**, and **Overdue**, supports inline updates from an Agent Command Center, writes structured Incident work notes, sends due/overdue reminders, provides a Team Manager dashboard, and tracks ageing, attempts, response outcomes, and repeat pending cycles with light/dark dashboard themes. |
-| **ResolveFlow** | A resolution workflow idea for making ITSM handoffs clearer, more measurable, and easier to follow from intake to closure. |
-| **AgentTouch** | A ServiceNow agent productivity concept focused on faster updates, cleaner task context, and lower-friction daily work. |
-| **RSA Repeat Caller / Catalog POC** | A proof-of-concept for identifying repeat caller patterns and improving catalog-driven service intake. |
-| **User360 Hub** | A single-view support concept for understanding requester context, open work, recent history, and service signals. |
-| **AccessGuard** | An access request and governance concept for safer approvals, cleaner audit context, and role-aware fulfillment. |
-| **Incident Productivity / Analytics** | Dashboard and analytics ideas for incident throughput, ageing, pending reasons, follow-up health, and operational focus areas. |
+**Incident Follow-up Assistant**  
+A ServiceNow scoped app concept for incidents moved to **On Hold + Awaiting Caller**. It auto-creates follow-up records, classifies them as **Upcoming**, **Due**, and **Overdue**, supports inline updates from an Agent Command Center, writes structured Incident work notes, sends due/overdue reminders, provides a Team Manager dashboard, and tracks ageing, attempts, response outcomes, and repeat pending cycles with light/dark dashboard themes.
+
+**ResolveFlow**  
+A resolution workflow idea for making ITSM handoffs clearer, more measurable, and easier to follow from intake to closure.
+
+**AgentTouch**  
+A ServiceNow agent productivity concept focused on faster updates, cleaner task context, and lower-friction daily work.
+
+**RSA Repeat Caller / Catalog POC**  
+A proof-of-concept for identifying repeat caller patterns and improving catalog-driven service intake.
+
+**User360 Hub**  
+A single-view support concept for understanding requester context, open work, recent history, and service signals.
+
+**AccessGuard**  
+An access request and governance concept for safer approvals, cleaner audit context, and role-aware fulfillment.
+
+**Incident Productivity / Analytics**  
+Dashboard and analytics ideas for incident throughput, ageing, pending reasons, follow-up health, and operational focus areas.
 
 ## Current Focus
 
