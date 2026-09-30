@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:0369a1,100:14b8a6&text=Nishant%20%7C%20ServiceNow%20%26%20ITSM&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Building%20cleaner%20service%20experiences%20for%20agents,%20teams,%20and%20business%20users&descAlignY=58&animation=fadeIn" alt="Nishant - ServiceNow and ITSM profile header" width="100%" />
+  <img src="./assets/profile-header.svg" alt="Nishant - ServiceNow and ITSM profile header" width="100%" />
 </p>
 
 <p align="center">
@@ -112,5 +112,5 @@ Dashboard and analytics ideas for incident throughput, ageing, pending reasons, 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:14b8a6,55:0369a1,100:0f172a" alt="Footer wave" width="100%" />
+  <img src="./assets/profile-footer.svg" alt="Footer wave" width="100%" />
 </p>
